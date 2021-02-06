@@ -1,0 +1,6 @@
+framework module Pods_GPStroller {
+  umbrella header "Pods-GPStroller-umbrella.h"
+
+  export *
+  module * { export * }
+}
